@@ -1,0 +1,11 @@
+# 데이터셋 설정 파일 (경로 반드시 절대경로 사용)
+path: /Users/kyuhyeonkim/test_local/service/yolo_bird/datasets/bird_v1
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: gray_headed_Woodpecker # 청딱따구리
+  1: eurasian_jay # 어치
+  2: common_kingfisher # 물총새
+nc: 3 # 클래스 수
