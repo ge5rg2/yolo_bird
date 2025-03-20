@@ -1,6 +1,8 @@
 # runs 폴더 내부의 모든 파일 무시
 runs/segment/**
 runs/detect/** 
+# log 파일 무시
+runs/logs/**
 
 # raw_data 폴더 내부의 모든 파일 무시
 raw_data/**
@@ -9,3 +11,5 @@ raw_data/**
 datasets/bird_v1/train/**
 datasets/bird_v1/val/**
 datasets/bird_v1/test/**
+datasets/** 
+
