@@ -5,11 +5,14 @@ runs/detect/**
 runs/logs/**
 
 # raw_data 폴더 내부의 모든 파일 무시
-raw_data/**
+raw_data/images/**
+raw_data/labels/**
 
-# datasets/bird_v1 내부의 train, val, test 폴더 내 파일 무시
 datasets/bird_v1/train/**
 datasets/bird_v1/val/**
 datasets/bird_v1/test/**
-datasets/** 
+datasets/bird_v2/train/**
+datasets/bird_v2/val/**
+datasets/bird_v2/test/**
 
+# datasets/bird_v1 내부의 train, val, test 폴더 내 파일 무시
