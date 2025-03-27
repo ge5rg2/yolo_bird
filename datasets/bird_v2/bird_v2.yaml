@@ -1,5 +1,5 @@
 # YOLOv11n Bird Dataset
-path: /Users/kyuhyeonkim/test_local/service/yolo_bird/datasets/bird_v2
+path: /Users/kyuhyeonkim/test_local/service/yolo_bird/datasets/bird_v2 # /content/drive/MyDrive/DEV/yolo_bird/datasets/bird_v2 colab
 train: train/images
 val: val/images
 test: test/images

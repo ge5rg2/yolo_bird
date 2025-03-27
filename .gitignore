@@ -1,3 +1,5 @@
+.DS_Store
+
 # runs 폴더 내부의 모든 파일 무시
 runs/segment/**
 runs/detect/** 
